@@ -1,1 +1,1 @@
-Des proxies sont maintenant intégrés dans le code !
+Des proxies sont maintenant intégrés !
